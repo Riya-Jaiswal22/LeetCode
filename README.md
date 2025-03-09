@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [1155-product-sales-analysis-iii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1155-product-sales-analysis-iii) |
+| [1877-find-followers-count](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1877-find-followers-count) |
 ## Greedy
 |  |
 | ------- |
