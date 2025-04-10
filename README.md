@@ -141,4 +141,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0812-rotate-string) |
+## Math
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
