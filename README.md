@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2032-largest-odd-number-in-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
+| [2032-largest-odd-number-in-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Geometry
 |  |
 | ------- |
