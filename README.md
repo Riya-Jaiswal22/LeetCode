@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1155-product-sales-analysis-iii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1480-movie-rating](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1480-movie-rating) |
+| [1811-fix-names-in-a-table](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1942-primary-department-for-each-employee) |
