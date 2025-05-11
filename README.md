@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1480-movie-rating) |
+| [1664-find-users-with-valid-e-mails](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1811-fix-names-in-a-table](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
