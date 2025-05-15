@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0585-investments-in-2016) |
 | [0596-classes-more-than-5-students](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0619-biggest-single-number) |
