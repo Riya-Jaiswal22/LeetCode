@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -272,4 +275,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
