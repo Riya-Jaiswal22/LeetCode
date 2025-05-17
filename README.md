@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
