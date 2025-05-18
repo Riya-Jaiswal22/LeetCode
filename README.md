@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
 | [1046-max-consecutive-ones-iii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
 | [2032-largest-odd-number-in-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0812-rotate-string) |
+| [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
