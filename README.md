@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2887-sort-vowels-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
