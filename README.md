@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0338-counting-bits) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Segment Tree
 |  |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0338-counting-bits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0645-set-mismatch) |
 ## Iterator
 |  |
