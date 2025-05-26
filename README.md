@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0860-design-circular-queue](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0860-design-circular-queue) |
+| [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -345,4 +350,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
