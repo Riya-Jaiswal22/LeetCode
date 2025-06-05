@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
 | [1095-two-city-scheduling](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0812-rotate-string) |
 | [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0645-set-mismatch](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0645-set-mismatch) |
+| [0768-partition-labels](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0768-partition-labels) |
 | [1319-unique-number-of-occurrences](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
