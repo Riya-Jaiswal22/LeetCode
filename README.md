@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Recursion
 |  |
 | ------- |
