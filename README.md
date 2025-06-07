@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [2887-sort-vowels-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
@@ -204,12 +206,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
@@ -427,5 +431,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
