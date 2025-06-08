@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3790-fruits-into-baskets-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -441,4 +445,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
