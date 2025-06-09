@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1508-longest-happy-prefix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
