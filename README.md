@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1829-maximum-units-on-a-truck](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
