@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0394-decode-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0148-sort-list) |
