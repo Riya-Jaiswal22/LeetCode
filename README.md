@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
 | [0860-design-circular-queue](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
 | [1046-max-consecutive-ones-iii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-two-city-scheduling](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1095-two-city-scheduling) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0768-partition-labels) |
+| [0940-fruit-into-baskets](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
