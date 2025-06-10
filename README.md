@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Hash Table
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
