@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2057-count-salary-categories](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3530-odd-and-even-transactions](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3530-odd-and-even-transactions) |
+| [3816-dna-pattern-recognition](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3816-dna-pattern-recognition) |
 ## Greedy
 |  |
 | ------- |
