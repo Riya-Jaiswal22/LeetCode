@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0585-investments-in-2016) |
 | [0596-classes-more-than-5-students](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0596-classes-more-than-5-students) |
