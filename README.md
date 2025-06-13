@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
