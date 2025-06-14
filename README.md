@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0162-find-peak-element](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Rolling Hash
 |  |
