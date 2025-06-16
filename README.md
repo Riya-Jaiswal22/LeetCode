@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0860-design-circular-queue](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
