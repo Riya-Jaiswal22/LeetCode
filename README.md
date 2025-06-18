@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0665-non-decreasing-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0860-design-circular-queue](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0860-design-circular-queue) |
