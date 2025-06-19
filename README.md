@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0456-132-pattern](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0148-sort-list) |
+| [0274-h-index](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0274-h-index) |
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -531,4 +533,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0456-132-pattern) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
