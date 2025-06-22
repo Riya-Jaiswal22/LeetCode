@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0812-rotate-string) |
+| [0857-positions-of-large-groups](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
