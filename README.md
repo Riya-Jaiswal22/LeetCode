@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0768-partition-labels) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0390-elimination-game](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0390-elimination-game) |
+| [0415-add-strings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0415-add-strings) |
 | [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
