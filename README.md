@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
