@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
