@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 ## Simulation
