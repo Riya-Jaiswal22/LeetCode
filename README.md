@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3031-construct-product-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3031-construct-product-matrix) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2465-shifting-letters-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [3031-construct-product-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3031-construct-product-matrix) |
 | [3639-zero-array-transformation-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Counting
 |  |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
+| [3031-construct-product-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3031-construct-product-matrix) |
 ## Simulation
 |  |
 | ------- |
