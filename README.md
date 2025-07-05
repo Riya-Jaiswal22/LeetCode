@@ -604,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1610-xor-operation-in-an-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1839-decode-xored-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Iterator
