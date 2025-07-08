@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0390-elimination-game](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0398-random-pick-index) |
@@ -629,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0338-counting-bits) |
