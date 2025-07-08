@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0456-132-pattern) |
 | [0500-keyboard-row](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0398-random-pick-index) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0645-set-mismatch) |
