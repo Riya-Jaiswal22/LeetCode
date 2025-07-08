@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0135-candy) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
