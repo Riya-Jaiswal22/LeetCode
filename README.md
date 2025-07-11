@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0398-random-pick-index) |
@@ -547,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0264-ugly-number-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0390-elimination-game](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0412-fizz-buzz) |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0397-integer-replacement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -695,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
