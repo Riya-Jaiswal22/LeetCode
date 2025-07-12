@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0860-design-circular-queue](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0860-design-circular-queue) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0415-add-strings) |
 | [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1610-xor-operation-in-an-array) |
