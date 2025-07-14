@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1839-decode-xored-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1839-decode-xored-array) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1829-maximum-units-on-a-truck](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-longest-happy-prefix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -600,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0397-integer-replacement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Segment Tree
