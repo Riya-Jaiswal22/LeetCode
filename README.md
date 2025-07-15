@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+| [3396-valid-word](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
