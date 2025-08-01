@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0097-interleaving-string) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0169-majority-element) |
@@ -572,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0264-ugly-number-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0264-ugly-number-ii) |
