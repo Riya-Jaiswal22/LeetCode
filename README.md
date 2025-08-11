@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0067-add-binary) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0940-fruit-into-baskets) |
