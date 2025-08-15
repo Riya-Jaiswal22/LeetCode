@@ -474,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -589,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0412-fizz-buzz) |
@@ -712,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0645-set-mismatch) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
