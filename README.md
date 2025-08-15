@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0665-non-decreasing-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0979-di-string-match) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -363,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -381,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -755,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
