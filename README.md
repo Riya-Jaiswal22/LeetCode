@@ -471,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0739-daily-temperatures) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0860-design-circular-queue](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0398-random-pick-index](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
 | [0900-reordered-power-of-2](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
