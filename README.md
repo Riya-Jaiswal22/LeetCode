@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0224-basic-calculator) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0224-basic-calculator) |
