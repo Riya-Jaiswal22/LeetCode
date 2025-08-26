@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3639-zero-array-transformation-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -426,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2465-shifting-letters-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3031-construct-product-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3031-construct-product-matrix) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Counting
 |  |
@@ -531,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -765,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-first-letter-to-appear-twice](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Iterator
