@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3031-construct-product-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3031-construct-product-matrix) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
