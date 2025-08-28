@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Sliding Window
 |  |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3031-construct-product-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3031-construct-product-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
 | ------- |
