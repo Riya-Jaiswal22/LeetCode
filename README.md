@@ -634,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0223-rectangle-area](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0231-power-of-two) |
@@ -674,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Trie
