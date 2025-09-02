@@ -647,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
+| [0866-rectangle-overlap](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0900-reordered-power-of-2](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0223-rectangle-area](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
+| [0866-rectangle-overlap](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0866-rectangle-overlap) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Trie
 |  |
