@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2836-neither-minimum-nor-maximum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -664,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2715-k-items-with-the-maximum-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
@@ -679,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0223-rectangle-area](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
 | [0866-rectangle-overlap](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0866-rectangle-overlap) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Trie
 |  |
@@ -728,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
