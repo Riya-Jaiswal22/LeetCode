@@ -680,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3830-find-closest-person](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
 | ------- |
