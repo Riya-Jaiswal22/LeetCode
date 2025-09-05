@@ -740,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
@@ -805,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-first-letter-to-appear-twice](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -884,4 +886,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
