@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
 | ------- |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3799-unique-3-digit-even-numbers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
