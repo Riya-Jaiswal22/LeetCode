@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
