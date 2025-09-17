@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2350-find-closest-number-to-zero](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2429-design-a-food-rating-system](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -346,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2427-first-letter-to-appear-twice](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -566,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0969-number-of-recent-calls](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
@@ -875,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2728-sum-in-a-matrix](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
@@ -894,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0456-132-pattern) |
+| [2429-design-a-food-rating-system](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Counting Sort
 |  |
