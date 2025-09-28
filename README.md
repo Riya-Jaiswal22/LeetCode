@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0830-largest-triangle-area](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0860-design-circular-queue](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -691,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
+| [0830-largest-triangle-area](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0900-reordered-power-of-2](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -731,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0223-rectangle-area](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0593-valid-square) |
+| [0830-largest-triangle-area](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/0866-rectangle-overlap) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
