@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3373-maximum-prime-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -727,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3373-maximum-prime-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -885,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3373-maximum-prime-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Heap (Priority Queue)
 |  |
