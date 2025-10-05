@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1095-two-city-scheduling](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1306-minimum-absolute-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1095-two-city-scheduling](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1306-minimum-absolute-difference](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Riya-Jaiswal22/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
